@@ -21,7 +21,7 @@ markdown_extensions:
   - toc:
       permalink: true
 repo_name: Github
-repo_url: https://github.com/martinlingstuyl/blimped-mkdocs/
+repo_url: https://github.com/peterhee/mkdocs-sample/
 edit_uri: "/docs"
 theme:
   name: material
