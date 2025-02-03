@@ -7,7 +7,6 @@ nav:
   - about.md
 plugins:
   - search
-  - pdf-export
 markdown_extensions:
   - admonition
   - pymdownx.details
