@@ -2,14 +2,13 @@ site_name: My Docs
 nav:
   - Home: index.md
   - Guides:
-      - guides/getting-started.md    
+      - guides/getting-started.md
   - setup.md
   - about.md
 plugins:
   - search
-  - git-revision-date
   - pdf-export
-markdown_extensions:  
+markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.highlight
@@ -23,8 +22,6 @@ markdown_extensions:
       permalink: true
 repo_name: Github
 repo_url: https://github.com/martinlingstuyl/blimped-mkdocs/
-edit_uri: '/docs'
-theme: 
-  name: material  
-  
-
+edit_uri: "/docs"
+theme:
+  name: material
